@@ -28,6 +28,6 @@ jobs:
           push: true
           tags: |
             edemirtoldo/rotten-potatoes:latest
-            edemirtoldo/rotten-potatoes:${{ github.run_number }}
+            edemirtoldo/rotten-potatoes:${{ github.run_number}}
             
           

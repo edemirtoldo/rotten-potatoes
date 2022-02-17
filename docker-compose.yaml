@@ -8,8 +8,11 @@ volumes:
   rotten-potatoes_vol:
 
 services:
-  app:
-    build: .
+  api:
+    image: edemirtoldo/rotten-potatoes:v1
+    build:
+      dockerfile: ./src/dockerfile
+      context: ./src
     ports:
       - 5000:5000
     depends_on:

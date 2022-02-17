@@ -25,3 +25,6 @@ docker-compose up -d
 ```
 acesse o link <http://localhost:5000/>
 
+Tela do Rotten Potatoes
+
+

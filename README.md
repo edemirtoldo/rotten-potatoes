@@ -18,7 +18,7 @@ Para rodar a aplicação basta fazer um clone do repositório.
 
 Acessar a pasta rotten-potatoes/src/
 
-comando para e rodar o docker compose.
+E executar comando abaixo para rodar o Docker Compose.
 
 ```bash
 docker-compose up -d

@@ -12,6 +12,8 @@ MONGODB_USERNAME => Usuário do MongoDB
 
 MONGODB_PASSWORD => Senha do MongoDB
 
+---
+
 Para rodar a aplicação basta fazer um clone do repositório.
 
 Acessar a pasta rotten-potatoes/src/

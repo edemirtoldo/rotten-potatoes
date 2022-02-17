@@ -27,4 +27,6 @@ acesse o link <http://localhost:5000/>
 
 Tela do Rotten Potatoes
 
+![rotten-potatoes](https://github.com/edemirtoldo/rotten-potatoes/blob/main/img/rotten-potatoes.png)
+
 

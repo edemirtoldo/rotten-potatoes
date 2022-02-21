@@ -29,4 +29,4 @@ Tela do Rotten Potatoes
 
 ![rotten-potatoes](https://github.com/edemirtoldo/rotten-potatoes/blob/main/img/rotten-potatoes.png)
 
-
+>Este Desafio de Docker faz parte do Curso [KubeDev.io](https://kubedev.io/).

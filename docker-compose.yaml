@@ -9,9 +9,9 @@ volumes:
 
 services:
   app:
-    image: edemirtoldo/rotten-potatoes:v1
+    image: edemirtoldo/rotten-potatoes:${TAG}
     build:
-      dockerfile: ./src/Dockerfile
+      dockerfile: ./Dockerfile
       context: ./src
     ports:
       - 5000:5000
